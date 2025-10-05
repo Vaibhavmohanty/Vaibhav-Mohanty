@@ -1,174 +1,115 @@
-<!-- 🌊 HEADER WAVE -->
+<!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=200&section=header&text=Vaibhav%20Mohanty&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6073,100:16222A&height=200&section=header&text=Vaibhav%20Mohanty&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- ✨ Typing SVG -->
+<!-- Typing Animation Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Biophysicist+%7C+Computational+Biologist+%7C+AI+in+Evolution;Exploring+Fitness+Landscapes+and+Protein+Design;Bridging+Physics,+Biology,+and+Machine+Learning" alt="Typing Animation" />
-</p>
-
----
-
-<!-- 🌊 SECTION DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=80&section=footer" />
-</p>
-
-## 🧬 About Me
-
-I’m **Vaibhav Mohanty**, a researcher exploring the **intersection of biophysics, evolutionary theory, and AI**.  
-My work aims to decode how **proteins evolve** and **design biophysical landscapes** that guide evolution — combining **mathematical modeling**, **computational simulations**, and **machine learning**.
-
-I believe in **open science**, **cross-disciplinary learning**, and making scientific research more **transparent and reproducible**.
-
----
-
-<!-- 🌊 SECTION DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=80&section=footer" />
-</p>
-
-## 🔬 Research Focus
-
-| Area | Description |
-|:--|:--|
-| 🧠 **Fitness Landscape Design (FLD)** | Creating and shaping artificial evolutionary landscapes to guide protein adaptation |
-| 🧩 **Evolutionary Biophysics** | Studying the physical principles driving viral and molecular evolution |
-| 🤖 **AI in Biology** | Using ML models to predict mutations, simulate landscapes, and interpret data |
-| 🧫 **Viral Robustness & Adaptation** | Investigating how viruses mutate and escape immune responses |
-
----
-
-<!-- 🌊 SECTION DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=80&section=footer" />
-</p>
-
-## 🧪 Select Publications & Research
-
-| Year | Title | Journal / Link |
-|------|-------|----------------|
-| 2025 | **Biophysical Fitness Landscape Design Traps Viral Evolution** | [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.30.646233v1) |
-| 2023 | **Maximum Mutational Robustness in Genotype–Phenotype Maps** | [Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0169) |
-| 2019 | **Lazy Electrons in Graphene** | [PNAS](https://www.pnas.org/doi/10.1073/pnas.1908624116) |
-
-> 🧠 *Each project merges theoretical insights with computational experimentation.*
-
----
-
-<!-- 🌊 SECTION DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=80&section=footer" />
-</p>
-
-## 🧰 Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,linux,git,github,latex" /><br/>
-  <img src="https://img.shields.io/badge/Modeling-Fitness%20Landscapes-00c9ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computational-Biology-ff6ec7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Driven%20Simulations-6a11cb?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+AI+Explorer;Python+Developer+%7C+Java+Coder;Building+Cool+and+Meaningful+Projects;Always+Learning%2C+Always+Improving!"/>
 </p>
 
 ---
 
-<!-- 🌊 SECTION DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=80&section=footer" />
-</p>
+## 🧠 About Me  
 
-## ⚗️ Projects & Repositories
+Hey there 👋! I’m **Vaibhav Mohanty**, a passionate developer who loves solving problems through **code, logic, and creativity**.  
+I enjoy building scalable systems, visualizing algorithms, and experimenting with AI, automation, and data visualization.  
 
-| Project | Description | Tech |
-|:--|:--|:--|
-| 🧭 **FLD-Toolkit** | Tools for biophysical fitness landscape design | Python, NumPy, TensorFlow |
-| 🧬 **Viral-EvoSim** | Simulates viral evolution under changing constraints | Python, Matplotlib |
-| 🧠 **EvoAI-Lab** | Integrating deep learning with evolutionary biology | PyTorch, BioPython |
-
-> Explore all my work here → [github.com/Vaibhavmohanty](https://github.com/Vaibhavmohanty)
+💡 **Core Interests:**  
+- Software Engineering & Systems Design  
+- Machine Learning and AI Projects  
+- Visualization & Simulation of Algorithms  
+- Clean UI/UX for technical interfaces  
 
 ---
 
-<!-- 🌊 SECTION DIVIDER -->
+<!-- WAVE DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16222A,100:3A6073&height=100&section=footer" />
 </p>
 
-## 🌌 Research Philosophy
+## 🚀 Featured Repositories  
 
-- **Integrate Physics + Biology + AI** for deeper understanding of molecular adaptation.  
-- **Simulate before Synthesizing** — computational models as predictive tools.  
-- **Reproducibility** is key to scientific progress.  
-- Always **learn, share, and collaborate** 🌍  
+| Repository | Description | Tech Stack | Status |
+|-------------|-------------|-------------|--------|
+| [**Vaibhav-Mohanty**](https://github.com/Vaibhavmohanty/Vaibhav-Mohanty) | My personal profile repo | Markdown, GitHub Actions | 🟢 Active |
+| [**BCGX**](https://github.com/Vaibhavmohanty/BCGX) | Exploratory Jupyter-based project | Python, Jupyter | 🟢 Updated Recently |
+| [**FaceSense**](https://github.com/Vaibhavmohanty/FaceSense) | Forked from harshdeepsingh2005 — facial emotion recognition system | Python, Deep Learning | 🟡 Under Development |
+| [**Deadlock-Detection-System**](https://github.com/Vaibhavmohanty/Deadlock-Detection-System-) | Visual deadlock detection using Resource Allocation Graphs | Python, Tkinter | 🟢 Educational |
+| [**forage-midas**](https://github.com/Vaibhavmohanty/forage-midas) | JPMC Advanced Software Engineering (Forage Program) | Java | 🟣 Complete |
+| [**Orientation**](https://github.com/Vaibhavmohanty/Orientation) | Foundational Python projects & orientation exercises | Python | 🟢 Stable |
 
 ---
 
-<!-- 🌊 SECTION DIVIDER -->
+<!-- BUBBLES BACKGROUND -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=80&section=footer" />
+  <img src="https://github.com/harshdeepsingh2005/harshdeepsingh2005/assets/00000000/bubbles.gif" width="900px" alt="Floating bubbles background"/>
 </p>
 
-## 📊 GitHub Analytics
+## ⚙️ Tech & Tools  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavmohanty&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavmohanty&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://skillicons.dev/icons?i=python,java,github,jupyter,html,css,git,vscode,linux,opencv,tensorflow" />
 </p>
+
+🧩 **Specialties:**
+- Algorithm Visualization  
+- Deadlock Detection using RAGs  
+- AI Model Prototyping  
+- Data Flow and Graph Modeling  
 
 ---
 
-<!-- 🌊 SECTION DIVIDER -->
+<!-- WAVE DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6073,100:16222A&height=100&section=footer" />
 </p>
 
-## 🏆 Highlights & Recognition
+## 📈 GitHub Analytics  
 
-- 🧪 Published research in **PNAS**, **Royal Society Interface**, and **bioRxiv**  
-- 💡 Pioneer of **Biophysical Fitness Landscape Design (FLD)** methodology  
-- 🤝 Advocate for **open-access** and **collaborative scientific tools**  
-- 🌐 Contributor to multiple interdisciplinary research projects  
-
----
-
-<!-- 🌊 SECTION DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=80&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavmohanty&show_icons=true&theme=react&count_private=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vaibhavmohanty&theme=react&hide_border=true" height="180px"/>
 </p>
 
-## 📫 Connect With Me
-
 <p align="center">
-  <a href="https://orcid.org/0000-0003-1475-4228">
-    <img src="https://img.shields.io/badge/ORCID-0000--0003--1475--4228-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-vaibhav.mohanty%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Vaibhavmohanty">
-    <img src="https://img.shields.io/badge/GitHub-Vaibhavmohanty-181717?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavmohanty&theme=react-dark&bg_color=0D1117&color=00E7FF&line=00D1FF&point=FFFFFF&hide_border=true"/>
 </p>
 
 ---
 
-<!-- 🌊 SECTION DIVIDER -->
+<!-- TROPHIES SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16222A,100:3A6073&height=100&section=header" />
 </p>
 
-## ☕ Support My Work
+## 🏆 GitHub Trophy Wall  
 
 <p align="center">
-  <a href="https://ko-fi.com/">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavmohanty&theme=algolia&no-bg=true&margin-w=15&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavmohanty&theme=onestar&no-frame=true&column=7" />
 </p>
 
 ---
 
-<!-- 🌊 FOOTER WAVE -->
+## 🎯 Current Focus  
+
+- 🚧 Refining **Deadlock Detection Visual System**  
+- 💡 Exploring **AI-based Facial Recognition (FaceSense)**  
+- 🌱 Continuously improving **coding efficiency & visualization skills**  
+- 🤝 Open to collaboration on **Python + AI/ML + Visualization projects**
+
+---
+
+<!-- WAVY FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16222A,100:3A6073&height=200&section=footer&text=Let's%20Build%20Something%20Incredible!&fontSize=30&fontColor=ffffff&fontAlignY=65" />
+</p>
+
+<p align="center">
+  <a href="mailto:vaibhav@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vaibhavmohanty"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
